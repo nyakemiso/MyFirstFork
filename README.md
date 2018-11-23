@@ -1,8 +1,8 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:Caleb
+Name:Rose
 
-Instituition: UONBI
+Instituition:ICIPE
 
-i am at the OpenScienceKE to learn and train.
+I am at East Africa Open Science Tour to learn and train on Open.
